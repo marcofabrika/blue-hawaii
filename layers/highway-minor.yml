@@ -20,7 +20,7 @@ layout:
   line-cap: round
   line-join: round
 paint:
-  line-color: '#ffffff'
+  line-color: '#ff0000'
   line-opacity: 1
   line-width:
     base: 1.2
@@ -28,6 +28,6 @@ paint:
       - - 13.5
         - 0
       - - 14
-        - 2.5
+        - 5
       - - 20
         - 11.5

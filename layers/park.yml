@@ -13,7 +13,7 @@ filter:
 layout:
   visibility: visible
 paint:
-  fill-color: rgba(102, 170, 68, 1)
+  fill-color: 'rgba(102, 170, 68, 1)'
   fill-opacity:
     stops:
       - - 7

@@ -13,11 +13,11 @@ filter:
 layout:
   line-cap: round
 paint:
-  line-color: '#65cbf9'
+  line-color: '#FFFFFF'
   line-width:
     base: 1.2
     stops:
       - - 10
-        - 0.8
+        - 5
       - - 20
         - 6

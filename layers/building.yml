@@ -2,8 +2,11 @@ id: building
 type: fill
 source: geolonia
 source-layer: building
-minzoom: 16
+minzoom: 14
+filter:
+  - all
+  - - '>='
+    - ["get","building_area"]
+    - 2000
 paint:
-  fill-color: 'rgba(221, 221, 221, 0.5)'
-  fill-outline-color: '#ccc'
-  fill-antialias: true
+  fill-color: '#285783'

@@ -1,4 +1,4 @@
-id: landcover-grass
+id: landcover-grass-park-small
 type: fill
 source: geolonia
 source-layer: landcover
@@ -19,5 +19,5 @@ filter:
 layout:
   visibility: visible
 paint:
-  fill-color: '#daeca9'
+  fill-color: '#7694C1'
   fill-opacity: 1
